@@ -87,3 +87,24 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Extracted datafiles
+data/2019/DataFiles/
+data/2019/MasseyOrdinals/
+data/2019/MasseyOrdinals_thru_2019_day_128/
+data/2019/PlayByPlay_2010/
+data/2019/PlayByPlay_2011/
+data/2019/PlayByPlay_2012/
+data/2019/PlayByPlay_2013/
+data/2019/PlayByPlay_2014/
+data/2019/PlayByPlay_2015/
+data/2019/PlayByPlay_2016/
+data/2019/PlayByPlay_2017/
+data/2019/PlayByPlay_2018/
+data/2019/PlayByPlay_2019/
+data/2019/Prelim2019_GameCities/
+data/2019/Prelim2019_MasseyOrdinals/
+data/2019/Prelim2019_PlayByPlay_2019/
+data/2019/Prelim2019_RegularSeasonCompactResults/
+data/2019/Prelim2019_RegularSeasonDetailedResults/
+data/2019/Stage2DataFiles/
